@@ -192,15 +192,15 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "img_image",
+        "name": "quoteImg_image",
         "label": "Image",
         "multi": false
       },
       {
-        "component": "text",
+        "component": "text-input",
         "valueType": "string",
-        "name": "img_imageAlt",
-        "label": "Alt",
+        "name": "quoteImg_alt",
+        "label": "Alt Text",
         "value": ""
       },
        {
