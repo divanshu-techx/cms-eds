@@ -191,9 +191,9 @@
     "fields" : [
       {
         "component": "richtext",
-        "name": "text",
+        "name": "sampleText",
         "value": "Hello from Sample",
-        "label": "Text",
+        "label": "Sample Text",
         "valueType": "string"
       }
     ]
