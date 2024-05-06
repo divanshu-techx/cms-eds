@@ -205,7 +205,7 @@
       },
        {
          "component": "text-area",
-         "name": "quote",
+         "name": "txt_quote",
          "value": "",
          "label": "Quote",
          "valueType": "string"
@@ -213,7 +213,7 @@
        {
          "component": "text-input",
          "valueType": "string",
-         "name": "author",
+         "name": "text_author",
          "label": "Author",
          "value": ""
        }
