@@ -189,6 +189,20 @@
   {
     "id": "quote",
     "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "img_image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "img_imageAlt",
+        "label": "Alt",
+        "value": ""
+      },
        {
          "component": "text-area",
          "name": "quote",
